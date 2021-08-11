@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi 👋
+#### My name is Alejandro Loaiza, from Osorno, Chile
 
 #### 🔭 I’m currently working on my website alejandroloaiza.dev
-#### 🌱 I’m currently learning the best practices
+#### 🌱 
 #### 💬 Ask me about
 
 #### 📫 How to reach me: contacto@alejandroloaiza.dev
