@@ -55,14 +55,21 @@
 
 <p align="left">
 <a href="https://github.com/Adesings">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adesings&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adesings&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adesings&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adesings&layout=compact&langs_count=8" />
 </a>
+<a href="https://github.com/adesings/idea-app-laravel-vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=idea-app-laravel-vue" />
+</a>
+<a href="https://github.com/adesings/poster-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=poster-shop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</a>
+
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:loaizaojeda.alejandro@gmail.com"><img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:loaizaojeda.alejandro@gmail.com"><img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 
 
 
