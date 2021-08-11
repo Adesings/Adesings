@@ -55,14 +55,14 @@
 
 <p align="left">
 <a href="https://github.com/Adesings">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adesings&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adesings&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adesings&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adesings&layout=compact&langs_count=8 &theme=dark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/adesings/idea-app-laravel-vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=idea-app-laravel-vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=idea-app-laravel-vue&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/adesings/poster-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=poster-shop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adesings&repo=poster-shop&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 
 </p>
