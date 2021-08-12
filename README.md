@@ -69,9 +69,10 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<a href="mailto:loaizaojeda.alejandro@gmail.com"><img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/alejandro-loaiza-o/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:loaizaojeda.alejandro@gmail.com">
+        <img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 
 
 <!--
