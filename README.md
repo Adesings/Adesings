@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Alejandro Loaiza</h1>
-<h3 align="center">I'm Software Engineer 👩‍💻 and Web Developer 🚀, from Chile.</h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;My+name+is+Alejandro;I'm+Software+Engineer;Web+Developer;and+always+learning+new+things.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesigns&label=Profile%20views&color=0e75b6&style=flat" alt="adesigns" /> </p>
 
