@@ -1,21 +1,22 @@
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alejandro Loaiza (☕💻🎮
+ 📚💡❤️)</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;My+name+is+Alejandro;I'm+Software+Engineer;Web+Developer;and+always+learning+new+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;Software+Engineer;Web+Developer;and+always+learning+new+things.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesigns&label=Profile%20views&color=0e75b6&style=flat" alt="adesigns" /> </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **my personal projects**
+- 💼 Currently working as **software engineer and web developer**
 
 - :page_with_curl: I’m currently learning **Laravel, VueJs, Blazor, Python**
 
-- 🤝 I’m looking for help with **c#, php, html, mysql**
-
 - 💬 Ask me anything, i'm happy to help.
+
+- ☕ Coffee lover, turning it into code, you can buy me a coffee!
 
 - ⚡ Fun fact **I :heart: :cat:s**
 
@@ -40,15 +41,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-
-
-### 🧡 &nbsp;&nbsp;My passions
-
- 💻
- 🎮
- 📚
- 🥾
- 🚴‍♂️
 
 ### ⚙️ &nbsp;GitHub Analytics
 
