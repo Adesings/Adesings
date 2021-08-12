@@ -15,10 +15,6 @@
 
 - 💬 Ask me anything, i'm happy to help.
 
-- 💼 any freelance work? do reach, **loaizaojeda.alejandro@gmail.com**
-
-- 📙 Check out my resume
-
 - ⚡ Fun fact **I :heart: :cat:s**
 
 ### 🛠 &nbsp;Tech Stack
@@ -69,10 +65,10 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/alejandro-loaiza-o/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-<a href="mailto:loaizaojeda.alejandro@gmail.com">
-        <img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/alejandro-loaiza-o/"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:loaizaojeda.alejandro@gmail.com"><img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+
 
 
 <!--
