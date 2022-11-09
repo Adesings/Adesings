@@ -3,7 +3,7 @@
  📚💡❤️)</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;Software+Engineer;Web+Developer;and+constantly+learning+about+new+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;I'm Software+Engineer;Web+Developer;and+constantly+learning+about+new+things.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesigns&label=Profile%20views&color=0e75b6&style=flat" alt="adesigns" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💼 Currently working as **software engineer and web developer**
 
-- :page_with_curl: I’m currently learning **Laravel, VueJs, Blazor, Python**
+- :page_with_curl: I’m currently learning **WordPress, Python**
 
 - 💬 Ask me anything, i'm happy to help.
 
@@ -60,7 +60,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
- <a href="https://linkedin.com/in/alejandro-loaiza-o" alt="LinkedIn">
+ <a href="https://linkedin.com/in/alejandro-loaiza-o" target="_blank" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="mailto:loaizaojeda.alejandro@gmail.com"><img src="https://img.shields.io/badge/-loaizaojeda.alejandro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 
